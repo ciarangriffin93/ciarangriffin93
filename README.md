@@ -9,10 +9,6 @@
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/ciaran-griffin-2534622a5/)  
 
 
-#### 🎨 Designs & Wireframes
-
-![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-%2360b9fe.svg?style=for-the-badge&logo=Lucidchart&logoColor=FFFFFF)
 
 #### < > Programming Languages
 
@@ -20,6 +16,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
+#### 🎨 Designs & Wireframes
+
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-%2360b9fe.svg?style=for-the-badge&logo=Lucidchart&logoColor=FFFFFF)
 
 
 
@@ -37,6 +40,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
+
 ### 💻 Version Control, IDE's & Other Coding Content 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -46,5 +50,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
+### 💬 Social
+
+![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
 
 
