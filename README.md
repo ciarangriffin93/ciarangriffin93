@@ -10,7 +10,7 @@
 
 
 
-#### < > Programming Languages
+### < > Programming Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@
 
 
 
-#### 🎨 Designs & Wireframes
+### 🎨 Designs & Wireframes
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-%2360b9fe.svg?style=for-the-badge&logo=Lucidchart&logoColor=FFFFFF)
