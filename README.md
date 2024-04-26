@@ -1,6 +1,6 @@
 ## Hello, World! 
 
-# Ciaran 
+# My name is Ciaran 
 
 ## Full Stack Web Developer Student At Code Institute
 
