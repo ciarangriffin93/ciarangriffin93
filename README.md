@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @ciarangriffin93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## <Hello, World!> 
 <!---
-ciarangriffin93/ciarangriffin93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AmandaCIdev/AmandaCIdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+</div>
+
+
+
+# Ciaran 
+## Junior Full Stack Software Developer
+Full Stack Web Developer Student At Code Institute
