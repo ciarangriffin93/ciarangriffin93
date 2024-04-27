@@ -1,6 +1,10 @@
 ## Hello, World! 
 
-# My name is Ciaran 
+<div id="header" align="center">
+  <img src="https://c7.alamy.com/comp/W3XF5F/hello-world-text-written-on-programming-code-abstract-technology-background-of-software-developer-and-computer-script-hello-world-concept-of-code-on-W3XF5F.jpg">
+</div>
+
+# I'm Ciaran 
 
 ## Full Stack Web Developer Student At Code Institute
 
