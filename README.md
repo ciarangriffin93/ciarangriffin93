@@ -1,7 +1,5 @@
-## Hello, World! 
-
-<div id="header" align="center">
-  <img src="https://c7.alamy.com/comp/W3XF5F/hello-world-text-written-on-programming-code-abstract-technology-background-of-software-developer-and-computer-script-hello-world-concept-of-code-on-W3XF5F.jpg">
+ <div id="header" align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*X7Q84nkQN1DiFXC-rQLt9g.gif">
 </div>
 
 # I'm Ciaran 
