@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/ciarangriffin93&"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/ciarangriffin93"/>
   <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*X7Q84nkQN1DiFXC-rQLt9g.gif">
 </div>
 
