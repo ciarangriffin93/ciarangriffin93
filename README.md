@@ -68,8 +68,9 @@
 ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
 
 ### Hackathons 🏆: 
-<a href="https://prideful-programmers-01c026806d6f.herokuapp.com" rel="noopener noreferrer"></a>
 ![Hackathon 3rd Place](./images/image.png)
+<p>3rd Place - Code Institute Hackathon</p>
+
 ###
 
 <div align="center">
