@@ -36,12 +36,16 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
+![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
+![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 
 
 
 ### 🏡 Hosting
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
 
 
 
@@ -54,10 +58,17 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
+
 ### 💬 Social
 
 ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
 
+### Hackathons 🏆: 
+<a href="https://prideful-programmers-01c026806d6f.herokuapp.com" rel="noopener noreferrer"></a>
 ###
 
 <div align="center">
