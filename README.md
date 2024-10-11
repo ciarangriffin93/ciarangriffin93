@@ -69,6 +69,7 @@
 
 ### Hackathons 🏆: 
 <a href="https://prideful-programmers-01c026806d6f.herokuapp.com" rel="noopener noreferrer"></a>
+![Hackathon 3rd Place](./images/image.png)
 ###
 
 <div align="center">
