@@ -68,7 +68,7 @@
 ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
 
 ### Hackathons 🏆: 
-![Hackathon 3rd Place](./images/image.png)
+![Hackathon 3rd Place]<img src="./images/image.png" width="250">
 <p>3rd Place - Code Institute Hackathon</p>
 
 ###
