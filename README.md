@@ -5,8 +5,6 @@
 
 # I'm Ciaran 
 
-## Full Stack Web Developer Student At Code Institute
-
 ### Contact Me
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/ciaran-griffin-2534622a5/)  
