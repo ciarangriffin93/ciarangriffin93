@@ -68,6 +68,9 @@
 <div align="center">
 <p> 1. 🏆 Hackathon 3rd Place at Code Institute</p> <img src="./images/image.png" width="250">
 </div>
+<div align="center">
+<p> 2. 🏆 Hackathon 2nd Place at Code Institute</p> <img src="./images/2nd-place.png" width="250">
+</div>
 
 ###
 
