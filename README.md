@@ -2,8 +2,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ciarangriffin93&"/>
   <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*X7Q84nkQN1DiFXC-rQLt9g.gif">
   <h1>I'm Ciaran 👋🏻</h1>
-  I'm a Junior Software Developer with experience in building full-stack web applications, specializing in both front-end and back-end development. I’m eager to learn new technologies, improve user experiences, and build scalable, efficient systems. My goal is to continuously expand my skills and contribute to exciting, impactful projects!
 </div>
+I'm a Junior Software Developer with experience in building full-stack web applications, specializing in both front-end and back-end development. I’m eager to learn new technologies, improve user experiences, and build scalable, efficient systems. My goal is to continuously expand my skills and contribute to exciting, impactful projects!
 
 ### 📇 Contact Me
 
