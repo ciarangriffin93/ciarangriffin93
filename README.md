@@ -4,6 +4,15 @@
   <h1>I'm Ciaran 👋🏻</h1>
 </div>
 
+I’m a Software Developer 👨‍💻 who ❤️ everything about the world of software development!
+Passionate about continuous learning, I’m always sharpening my skills and enjoy helping others grow along the way 💯
+
+🔭 Always working on: Sharpening my skills!
+
+🌱 Currently learning: New things!
+
+💬 Ask me about: Anything!
+
 ### 📇 Contact Me
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/ciaran-griffin-2534622a5/)  
