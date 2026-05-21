@@ -55,6 +55,7 @@ Passionate about continuous learning, I’m always sharpening my skills and enjo
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
+![Vercel](https://camo.githubusercontent.com/2c90f0daa6d16880f300c463d62949a8d2ea3461f9708e93e46a54da5a649c9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
 
 
 
