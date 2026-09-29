@@ -4,7 +4,7 @@
   <h1>I'm Ciaran 👋🏻</h1>
 </div>
 
-I’m a Software Developer 👨‍💻 who ❤️ everything about the world of software development!
+I’m Software Developer 👨‍💻 who ❤️ everything about the world of software development!
 Passionate about continuous learning, I’m always sharpening my skills and enjoy helping others grow along the way 💯
 
 🔭 Always working on: Sharpening my skills!
