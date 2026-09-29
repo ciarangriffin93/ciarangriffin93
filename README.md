@@ -27,7 +27,6 @@ Passionate about continuous learning, I’m always sharpening my skills and enjo
 <br />
 
 
-
 ### 🎨 Designs & Wireframes
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
